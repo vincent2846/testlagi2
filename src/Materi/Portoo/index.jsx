@@ -7,6 +7,7 @@ export default class Komponen extends React.Component{
         return (
             <div>
                 {/* <Porto /> */}
+                tess
             </div>
         )
     }
